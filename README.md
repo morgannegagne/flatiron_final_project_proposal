@@ -58,12 +58,12 @@ Comment
 * As a user, I will be able to see all the the saves and recommendations of my friends.
 
 **Final Product**
-* As a user, I will be able to login/logouot with authentication.
+* As a user, I will be able to login/logout with authentication.
 * As a user, I can create lists and invite others to contribute to lists.
 * As a user, I can view the website through a demo mode (without needing to login).
 
 **Stretch Goals**
-* As a user, I will be able to use a Google Chrome extension to save places to my profile with a linke to the page where it was save from. 
+* As a user, I will be able to use a Google Chrome extension to save places to my profile with a link to the page where it was saved from. 
 
 # Wire-Frames
 
